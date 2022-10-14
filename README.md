@@ -1,6 +1,16 @@
 ## Olá! Meu nome é Renato e este é o meu perfil no github!
 
-Desde 2009 quando tive minha primeira experiência na área de desenvolvimento de sistemas, sempre trabalhei em projetos que envolveram questões de confidencialidade, então aqui eu publico somente projetos desenvolvidos através de cursos/estudos de maneira geral.
+Desde 2009, quando tive minha primeira experiência na área de desenvolvimento de sistemas, sempre trabalhei em projetos que envolveram questões de confidencialidade, então aqui eu publico somente projetos desenvolvidos através de cursos/estudos de maneira geral.
+
+Atualmente trabalho para a empresa [Wipro Limited](https://www.wipro.com/) em um projeto de OutSourcing para o Governo do RN.
+
+Nesse projeto atuo como Dev Sênior Full Stack .Net.
+
+Já tive experiências profissionais com Java, PHP, Ruby, mas hoje tenho focado mais em tecnologias Microsoft (stack .net), Flutter, Angular, entre outras coisas.
+
+Nos links abaixo você pode achar maneiras de entrar em contato comigo e saber mais um pouco sobre o que eu ando aprontando por aí! 
+
+Valeu! Abraço!
 
 ## GitHub Stats.
 
