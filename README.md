@@ -46,6 +46,7 @@ Valeu! Abraço!
 
 ## Informações acadêmicas, publicação de artigos e participação em congressos.
 
- <a href="https://lattes.cnpq.br/1512786382845787" target="_blank"><img src="https://wwws.cnpq.br/images/estatico/imagens/logo_cnpq.png" target="_blank"></a>
+
+ <a href="https://lattes.cnpq.br/1512786382845787" target="_blank"><img src="https://github.com/renatolavor/renatolavor/blob/main/logo_cnpq.png"></a>
 
 
