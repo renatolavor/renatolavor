@@ -12,14 +12,6 @@ Nos links abaixo você pode achar maneiras de entrar em contato comigo e saber m
 
 Valeu! Abraço!
 
-## GitHub Stats.
-
-<div align="center">
-  <a href="https://github.com/renatolavor">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=renatolavor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatolavor&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 ## Tecnologias de interesse.
 
 <div style="display: inline_block"><br>
