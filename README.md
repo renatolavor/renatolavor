@@ -2,7 +2,7 @@
 
 Desde 2009, quando tive minha primeira experiência na área de desenvolvimento de sistemas, sempre trabalhei em projetos que envolveram questões de confidencialidade, então aqui eu publico somente projetos desenvolvidos através de cursos/estudos de maneira geral.
 
-Atualmente trabalho atuo como Dev Sênior Full Stack .Net.
+Atualmente trabalho como Dev Sênior Full Stack .Net.
 
 Já tive experiências profissionais com Java, PHP, Ruby, mas hoje tenho focado mais em tecnologias Microsoft (stack .net), Angular, entre outras coisas.
 
